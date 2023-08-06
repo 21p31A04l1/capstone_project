@@ -1,0 +1,348 @@
+.main{
+	height:11000px;
+	width:1500px;
+	background-color: white;
+}
+.a{
+	height:700px;
+	width:1500px;
+	background-color: skyblue;
+}
+.ai{
+	height:700px;
+	width:1500px;
+}
+.b{
+	height:600px;
+	width:1500px;
+	background-color: whitesmoke;
+}
+h3{
+	color:darkblue;
+	
+}
+p{
+	color:grey;
+}
+
+.bi{
+	height:300px;
+	width:300px;
+	position:relative;
+	top:90px;
+	left:70px;
+	opacity: 80%;
+}
+.c{
+	height:1000px;
+	width:1500px;
+	background-color: darkblue;
+}
+h4{
+	color:orange;
+	padding:100px;
+	font-size: 40px;
+}
+p{
+	color:white;
+	font-size: 20px;
+}
+.bu{
+	height:30px;
+	width:100px;
+	background-color:skyblue;
+}
+.ci{
+	height:600px;
+	width:700px;
+	float:right;
+	margin-right:40px;
+	border-radius: 50px;
+	margin:30px;
+}
+
+.e{
+	height:1300px;
+	width:1500px;
+	background-color:darkblue;
+}
+.ei1{
+	height:600px;
+	width:500px;
+	position:relative;
+	top:80px;
+	left:60px;
+	border-radius: 10px;
+}
+p{
+	text-align: center;
+	padding-top: 200px;
+}
+.ei2{
+	height:600px;
+	width:500px;
+	position:relative;
+	top:80px;
+	right:60px;
+	float:right;
+	border-radius: 10px;
+}
+
+.f{
+	height:1200px;
+	width:1500px;
+	background-color: whitesmoke;
+}
+h1{
+	color:orange;
+}
+p{
+	color:goldenrod;
+}
+.tf1{
+	height:400px;
+	width:300px;
+	background-color: white;
+	border-radius: 20px;
+	margin-left: 180px;
+	margin-top: 70px;
+	float:left;
+}
+.tf2{
+	height:400px;
+	width:300px;
+	background-color: white;
+	border-radius: 20px;
+	margin-right: 250px;
+	margin-top: 70px;
+	float:right;
+
+}
+.g{
+	height:500px;
+	width:1500px;
+	background-color: darkblue;
+}
+h1{
+	color:orange;
+	font-size: 40px;
+}
+p{
+	text-align: center;
+}
+.d{
+	height:2000px;
+	width:1500px;
+	background-color: lightgrey;
+}
+h1{
+	text-align:center;
+	color:orange;
+}
+h2{
+	text-align: center;
+	color:darkblue;
+	font-size: 50px;
+}
+.s1{
+	height:500px;
+	width:400px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 30px;
+	float:left;
+}
+.si1{
+	height:300px;
+	width:400px;
+}
+
+.butt1{
+	height:50px;
+	width:100px;
+	background-color: orange;
+	border-radius: 20px;
+
+}
+.s2{
+	height:500px;
+	width:400px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 30px;
+	float:left;
+}
+.si2{
+	height:300px;
+	width:400px;
+}
+.butt2{
+	height:50px;
+	width:100px;
+	background-color: orange;
+	border-radius: 20px;
+}
+.s3{
+	height:500px;
+	width:400px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 30px;
+	float:left;
+}
+.si3{
+	height:300px;
+	width:400px;
+}
+.butt3{
+	height:50px;
+	width:100px;
+	background-color: orange;
+	border-radius: 20px;
+}
+.s4{
+	height:500px;
+	width:400px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 30px;
+	float:left;
+}
+.si4{
+	height:300px;
+	width:400px;
+}
+.butt4{
+	height:50px;
+	width:100px;
+	background-color: orange;
+	border-radius: 20px;
+}
+.s5{
+	height:500px;
+	width:400px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 30px;
+	float:left;
+}
+.si5{
+	height:300px;
+	width:400px;
+}
+.butt5{
+	height:50px;
+	width:100px;
+	background-color: orange;
+	border-radius: 20px;
+}
+.s6{
+	height:500px;
+	width:400px;
+	background-color: white;
+	border-radius: 20px;
+	margin: 30px;
+	float:left;
+}
+.si6{
+	height:300px;
+	width:400px;
+}
+.butt6{
+	height:50px;
+	width:100px;
+	background-color: orange;
+	border-radius: 20px;
+}
+.h{
+	height:1700px;
+	width:1500px;
+	background-color: darkblue;
+}
+.hi{
+	height:600px;
+	width:1000px;
+	margin-left: 250px;
+}
+
+
+.i{
+	height:800px;
+	width:1500px;
+	background-color: whitesmoke;
+}
+.j{
+	height:600px;
+	width:500px;
+	background-color: white;
+	float:left;
+	margin:40px;
+	border-radius: 20px;
+	position:relative;
+	bottom:200px;
+	left:40px;
+
+}
+h1{
+	color:orange;
+
+}
+h1{
+	color:orange;
+
+}
+.k{
+	height:600px;
+	width:500px;
+	background-color: white;
+	float:right;
+	margin:40px;
+	border-radius: 20px;
+	position: relative;
+	bottom:200px;
+	right:60px;
+}
+.ki1{
+	height:30px;
+	width:300px;
+	background-color: lightgrey;
+	border-radius: 10px;
+	text-align: center;
+	position:relative;
+	top:50px;
+	left:50px;
+}
+.ki2{
+	height:50px;
+	width:300px;
+	background-color: lightgrey;
+	border-radius: 10px;
+	text-align: center;
+	position:relative;
+	top:100px;
+	left:50px;
+}
+.ki3{
+	height:50px;
+	width:300px;
+	background-color: lightgrey;
+	border-radius: 10px;
+	text-align: center;
+	position:relative;
+	top:150px;
+	left:50px;
+}
+.button{
+	height:50px;
+	width:130px;
+	position: relative;
+	top:250px;
+	left:10px;
+	background-color: orange;
+	border-radius: 10px;
+}
+.l{
+	height:400px;
+	width: 1500px;
+	background-color: darkgrey;
+}
